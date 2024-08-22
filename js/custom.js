@@ -206,7 +206,8 @@
             type: 'image' // this is default type
         });
     })
-   
+
+	console.log('From AWS - host')
 	
 })(jQuery);
 
